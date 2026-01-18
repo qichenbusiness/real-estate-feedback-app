@@ -18,14 +18,6 @@ const WelcomeScreen = ({ onStart, surveyorName }) => {
         </div>
         
         <div className="mb-8">
-          <div className="w-full h-64 md:h-80 bg-gray-200 rounded-lg mb-6 flex items-center justify-center overflow-hidden">
-            <img 
-              src="img src="/3561 W Dublin St_Floor Plan.jpg" className="w-full h-auto rounded-lg" />" 
-              alt="3561 W Dublin St, Chandler, AZ 85226"
-              className="w-full h-full object-cover"
-            />
-          </div>
-          
           <div className="bg-primary-50 rounded-lg p-6 text-center border-2 border-primary-200">
             <h2 className="text-2xl md:text-3xl font-bold text-primary-900 mb-2">
               3561 W Dublin St
