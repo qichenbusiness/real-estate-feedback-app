@@ -15,6 +15,11 @@ const WelcomeScreen = ({ onStart, surveyorName }) => {
             alt="3561 W Dublin St, Chandler, AZ 85226" 
             style={{ width: '100%', maxWidth: '600px', borderRadius: '12px', marginTop: '20px' }} 
           />
+          <img 
+            src="/3561_W_Dublin_St_Floor_Plan.jpg" 
+            alt="Floor Plan - 3561 W Dublin St" 
+            style={{ width: '100%', maxWidth: '600px', borderRadius: '12px', marginTop: '20px' }} 
+          />
         </div>
         
         <div className="mb-8">
