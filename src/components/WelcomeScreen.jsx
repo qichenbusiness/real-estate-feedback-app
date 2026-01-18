@@ -12,7 +12,7 @@ const WelcomeScreen = ({ onStart, surveyorName }) => {
           </h1>
           <img 
             src="/0_house_front.jpg" 
-            alt="3561 W Dublin St" 
+            alt="3561 W Dublin St, Chandler, AZ 85226" 
             style={{ width: '100%', maxWidth: '600px', borderRadius: '12px', marginTop: '20px' }} 
           />
         </div>
@@ -20,7 +20,7 @@ const WelcomeScreen = ({ onStart, surveyorName }) => {
         <div className="mb-8">
           <div className="w-full h-64 md:h-80 bg-gray-200 rounded-lg mb-6 flex items-center justify-center overflow-hidden">
             <img 
-              src="https://via.placeholder.com/800x600/1e3a8a/ffffff?text=3561+W+Dublin+St" 
+              src="img src="/3561 W Dublin St_Floor Plan.jpg" className="w-full h-auto rounded-lg" />" 
               alt="3561 W Dublin St, Chandler, AZ 85226"
               className="w-full h-full object-cover"
             />
