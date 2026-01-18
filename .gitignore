@@ -1,0 +1,9 @@
+       new file:   node_modules/yargs/yargs.mjs
+
+PS C:\Users\qiche\Real Estate Feedback App> git reset
+PS C:\Users\qiche\Real Estate Feedback App> git add .
+PS C:\Users\qiche\Real Estate Feedback App> git status
+On branch main
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   .gitignore
